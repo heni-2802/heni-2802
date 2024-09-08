@@ -1,49 +1,11 @@
-![Data Banner](https://your-data-banner-image-url)
-# Hello, I'm Hemnath V 🧑‍💻
-### Data Enthusiast 📊 | Insight Seeker 🔍 | Problem Solver 🧠
-**"Transforming raw data into actionable insights, one dataset at a time!"**  
-📈 Data Analyst | 💡 Data Storyteller | 🧩 Puzzle Solver
-## 🛠️ Data Tools & Skills
-<p align="center">
-<img src="https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=8b949e" alt="Hemnath's GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=8b949e&ring=39FF14&fire=white" alt="Hemnath's GitHub Streak">
-</p>
-## 📈 Featured Data Projects
-- **[📊 Sales Management Dashboard](#)**  
-  - 🛠 Tools: `Python`, `Power BI`
-  - 📅 Description: Analyzing sales trends to extract meaningful insights.
-  <img src="https://your-sales-dashboard-image-url" width="300" alt="Sales Dashboard">
-- **[🫀 Heart Disease Analysis](#)**  
-  - 🛠 Tools: `Python`, `Power BI`
-  - 📅 Description: Predicting heart disease risks through data analysis.
-  <img src="https://your-heart-disease-analysis-image-url" width="300" alt="Heart Disease Analysis">
-## 🎉 Fun Data Fact
-<img src="https://your-data-gif-url" width="400" alt="fun fact gif">
-**Did you know?**  
-*90% of the world's data was created in the last two years!*
-## 🌐 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/hemnathv"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:hemnathvrx@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-## 📈 Data Enthusiast Journey
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=chartreuse-dark" alt="Profile Details">
-<img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=chartreuse-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph">
-</p>
-## ✨ Data Quotes to Inspire
-> "Without data, you're just another person with an opinion."  
-> "Data is a precious thing and will last longer than the systems themselves."  
-<marquee>Data: The new language of the world! 🌍</marquee>
-<p align="center">
-Made with 💻 and 📊 by Hemnath V | © 2024  
-<img src="https://img.shields.io/badge/Data%20Driven-%230077b5?style=for-the-badge&logo=data&logoColor=white">
+<h1 align="center">Hi 👋, I'm Hemnath V</h1>
+<h3 align="center">A passionate data enthusiast with expertise in data-driven insights and visualization.</h3>
+
+- 📫 How to reach me **hemnathvrx@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
