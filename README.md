@@ -1,12 +1,5 @@
 <h1 align="center">Hi there 👋 It's me, Hemnath V</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/47f0342cec72b800436bf003eac1257e/giphy.gif" width="100%" height="200">
-</p>
-
-### 🔭 Here's my portfolio
-- [Portfolio Link](#)
-
 ### 🌱 I’m currently learning:
 - Data Engineering
 - Cloud Technologies
@@ -42,12 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HemnathV&show_icons=true&theme=radical&hide=issues&count_private=true">
 </p>
 
-### 🔥 Leetcode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/HemnathV?ext=heatmap">
-</p>
-
 ### 🚀 Hemnath's GitHub Activity Graph
 
 <p align="center">
@@ -67,7 +54,7 @@
 </p>
 
 ### 💻 Workspace Spec
-- **OS**: Windows 10
+- **OS**: Windows 11
 - **Editor**: Visual Studio Code
 - **Tools**: Jupyter, Power BI, MySQL Workbench
 - **Hardware**: Intel i5, 8GB RAM, SSD
